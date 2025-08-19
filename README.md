@@ -86,6 +86,3 @@ The project highlights both the strengths and weaknesses of the Perceptron Learn
 
 * Rosenblatt, F. (1958). The Perceptron: A Probabilistic Model for Information Storage and Organization in the Brain.
 * Bishop, C. M. (2006). *Pattern Recognition and Machine Learning*. Springer.
-
-
-Do you want me to also write this in a **shorter GitHub-style README** version (just overview, setup, results, conclusion), or keep it in this full research-report style?
